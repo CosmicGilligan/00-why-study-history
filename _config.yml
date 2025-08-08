@@ -1,0 +1,15 @@
+title: "World History: Interactive Lectures"
+author: "Professor Cox"
+copyright: "2025"
+execute:
+  execute_notebooks: "off"
+html:
+  use_repository_button: false
+  use_issues_button: false
+  use_edit_page_button: false
+  home_page_in_navbar: false
+sphinx:
+  config:
+    html_extra_path: ['audio']
+    html_theme_options:
+      use_download_button: false
