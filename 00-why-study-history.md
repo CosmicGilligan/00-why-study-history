@@ -19,20 +19,20 @@
 
 ## ❓ Big Question
 
-**How does our generation’s fading memory of past atrocities make us more vulnerable to their repetition?**
+**How does our generation's fading memory of past atrocities make us more vulnerable to their repetition?**
 
 ---
 
 ## 🏛️ Why Historical Literacy Matters
 
-Studying history isn’t just an academic exercise—it’s a **civic necessity**.  
+Studying history isn't just an academic exercise—it's a **civic necessity**.  
 Without it, we risk becoming like individuals with **amnesia**—easily manipulated, unable to check falsehoods, and open to having our past rewritten for political purposes.
 
 ---
 
 <h2>📜 The Difference Between Myth and History</h2>
 <p>
-Much of what Americans learn about their past in elementary and high school isn’t really history in the way professional historians approach it. Instead, it’s often a kind of “national myth” — a simplified, sanitized version designed to instill patriotic pride rather than critical understanding. While pride in one’s country isn’t inherently bad, when it’s based on incomplete or sugar-coated stories, it leaves citizens vulnerable to manipulation and ill-equipped to handle complexity.
+Much of what Americans learn about their past in elementary and high school isn't really history in the way professional historians approach it. Instead, it's often a kind of "national myth" — a simplified, sanitized version designed to instill patriotic pride rather than critical understanding. While pride in one's country isn't inherently bad, when it's based on incomplete or sugar-coated stories, it leaves citizens vulnerable to manipulation and ill-equipped to handle complexity.
 </p>
 
 <div style="background: linear-gradient(135deg, #8b0000 0%, #a83232 50%, #ff6347 100%); padding: 18px; border-radius: 12px; margin: 20px 0; border-left: 6px solid #ffd700; box-shadow: 0 6px 16px rgba(0,0,0,0.25);">
@@ -42,16 +42,16 @@ Much of what Americans learn about their past in elementary and high school isn�
 </div>
 
 <p>
-The Sons of Liberty were what historians call an “extralegal group” — they operated outside and often in direct defiance of established legal and governmental structures. Many respectable colonists at the time actually viewed them as dangerous thugs rather than patriots. Their tactics included tarring and feathering people, burning the governor in effigy, destroying his house, stealing his property, sinking ships, and throwing rocks at soldiers.
+The Sons of Liberty were what historians call an "extralegal group" — they operated outside and often in direct defiance of established legal and governmental structures. Many respectable colonists at the time actually viewed them as dangerous thugs rather than patriots. Their tactics included tarring and feathering people, burning the governor in effigy, destroying his house, stealing his property, sinking ships, and throwing rocks at soldiers.
 </p>
 
 <p>
-Even prominent founders disagreed about their methods: John Adams called the Tea Party “magnificent” and “absolutely necessary,” while Benjamin Franklin was so concerned he offered to personally repay the East India Company for the destroyed tea. George Washington privately called the Bostonians “mad” and disapproved of destroying private property. Some Massachusetts towns formally condemned the Tea Party as “illegal and unjust.”
+Even prominent founders disagreed about their methods: John Adams called the Tea Party "magnificent" and "absolutely necessary," while Benjamin Franklin was so concerned he offered to personally repay the East India Company for the destroyed tea. George Washington privately called the Bostonians "mad" and disapproved of destroying private property. Some Massachusetts towns formally condemned the Tea Party as "illegal and unjust."
 </p>
 
 <div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 50%, #1e3c72 100%); padding: 16px; border-radius: 10px; margin: 20px 0; border-left: 5px solid #ffd700;">
   <p style="color: #e8e8e8; margin: 0;">
-    📌 <strong>Contemporary Relevance:</strong> The modern Tea Party movement, which emerged around 2009, explicitly associates itself with the Boston Tea Party “patriots” while ignoring the violent, controversial aspects of the original Sons of Liberty. This selective memory uses mythology rather than history to legitimize political action.
+    📌 <strong>Contemporary Relevance:</strong> The modern Tea Party movement, which emerged around 2009, explicitly associates itself with the Boston Tea Party "patriots" while ignoring the violent, controversial aspects of the original Sons of Liberty. This selective memory uses mythology rather than history to legitimize political action.
   </p>
 </div>
 
@@ -60,7 +60,7 @@ This matters because without understanding the full historical context, citizens
 </p>
 
 <p style="margin-top: 1.2em; font-style: italic; color: #555;">
-  ➡️ Myths thrive where historical memory fades — and as our “Cost of Forgetting” shows, the less we remember the reality, the easier it becomes for dangerous patterns to reemerge.
+  ➡️ Myths thrive where historical memory fades — and as our "Cost of Forgetting" shows, the less we remember the reality, the easier it becomes for dangerous patterns to reemerge.
 </p>
 
 <div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 50%, #1e3c72 100%); padding: 20px; border-radius: 12px; margin: 20px 0; border-left: 6px solid #ffd700; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
@@ -81,7 +81,7 @@ This matters because without understanding the full historical context, citizens
 
 ---
 
-## 🇩🇪 Germany’s Example
+## 🇩🇪 Germany's Example
 
 Germany has made confronting the crimes of the Nazi regime a **central part of public education**—not to glorify them, but to prevent their recurrence.  
 They understand that the rise of Nazism in the 1930s was **not** due to forgetting—it was the product of deliberate choices by leaders and citizens who embraced racial hatred and authoritarian control.
@@ -89,8 +89,8 @@ They understand that the rise of Nazism in the 1930s was **not** due to forgetti
 ---
 
 ⚠️ **Why This Matters Now**  
-Our generation’s danger is different: the living memory of Nazi horrors is fading.  
-As fewer people have a personal connection to World War II, society’s sensitivity to early warning signs diminishes. The less we remember the urgency of stopping such ideologies early, the more room they have to grow before they trigger alarm.
+Our generation's danger is different: the living memory of Nazi horrors is fading.  
+As fewer people have a personal connection to World War II, society's sensitivity to early warning signs diminishes. The less we remember the urgency of stopping such ideologies early, the more room they have to grow before they trigger alarm.
 
 ---
 
@@ -119,17 +119,17 @@ This was **a playbook**, not an accident—and without awareness of it, we are l
 ## ⚠️ Contemporary Parallels
 
 When societies lose living memory of atrocities, their immunity to those dangers weakens.  
-Today, extremist rhetoric that once would have met immediate public outrage can pass as “just another opinion.” That shift in sensitivity is itself a warning sign.
+Today, extremist rhetoric that once would have met immediate public outrage can pass as "just another opinion." That shift in sensitivity is itself a warning sign.
 
 - **DHS reports**: White supremacist extremism is the most persistent U.S. domestic terror threat.
 - **Anti-Semitic incidents**: Highest ever recorded levels.
-- **Fintan O’Toole’s warning**: “Trial runs for fascism” normalize cruelty and dehumanization gradually.
+- **Fintan O'Toole's warning**: "Trial runs for fascism" normalize cruelty and dehumanization gradually.
 
 ---
 
 <div style="background: linear-gradient(135deg, #660000 0%, #800000 50%, #660000 100%); padding: 18px; border-radius: 10px; margin: 20px 0; border-left: 5px solid #ffd700;">
   <h4 style="color: white; margin-top: 0;">🛑 Concept Spotlight: "Trial Runs for Fascism"</h4>
-  <p style="color: #e8e8e8; margin: 0;">Extremists test boundaries, normalize cruelty, and desensitize the public before fully seizing power. Understanding these “trial runs” helps citizens spot early stages of democratic erosion.</p>
+  <p style="color: #e8e8e8; margin: 0;">Extremists test boundaries, normalize cruelty, and desensitize the public before fully seizing power. Understanding these "trial runs" helps citizens spot early stages of democratic erosion.</p>
 </div>
 
 ---
@@ -140,9 +140,9 @@ Historical literacy means:
 
 - Evaluating sources and evidence.
 - Recognizing myth-making and selective narratives.
-- Applying lessons from the past to today’s challenges.
+- Applying lessons from the past to today's challenges.
 
-The U.S. Founders applied lessons from **ancient Rome’s collapse** to design safeguards against dictatorship. We can—and must—do the same in our own time.
+The U.S. Founders applied lessons from **ancient Rome's collapse** to design safeguards against dictatorship. We can—and must—do the same in our own time.
 
 ---
 
@@ -220,9 +220,9 @@ The U.S. Founders applied lessons from **ancient Rome’s collapse** to design s
     <!-- Caption bullets -->
     <g font-family="ui-sans-serif, system-ui, Segoe UI, Roboto, Helvetica, Arial" font-size="13" fill="#e5e7eb">
       <text x="15" y="160">• Less lived experience ➜ fewer visceral guardrails</text>
-      <text x="245" y="178">• Outrage threshold rises; propaganda feels “normal”</text>
+      <text x="245" y="178">• Outrage threshold rises; propaganda feels "normal"</text>
       <text x="475" y="196">• Institutions erode quietly; civic reflexes dull</text>
-      <text x="705" y="160">• Patterns don’t “repeat” exactly—but they rhyme</text>
+      <text x="705" y="160">• Patterns don't "repeat" exactly—but they rhyme</text>
     </g>
   </svg>
 </div>
@@ -233,7 +233,7 @@ The U.S. Founders applied lessons from **ancient Rome’s collapse** to design s
 
 Examples like the U.S. Civil Rights Movement show that **ordinary people**, using historical knowledge strategically, can achieve transformative change.
 
-History is not only about **what happened**—it’s about **what we choose to make happen now**.
+History is not only about **what happened**—it's about **what we choose to make happen now**.
 
 ---
 
@@ -250,21 +250,62 @@ History is not only about **what happened**—it’s about **what we choose to m
 <div style="background: linear-gradient(135deg, #2a5298 0%, #1e3c72 50%, #2a5298 100%); padding: 20px; border-radius: 14px; margin: 25px 0; border-left: 6px solid #ffd700; box-shadow: 0 10px 25px rgba(0,0,0,0.2);">
   <h3 style="color: white; margin-top: 0;">✅ Submit in Canvas</h3>
   <ol style="color: #e8e8e8;">
-    <li>Explain the “memory” analogy for the role of history in a democracy. Why is it important?</li>
-    <li>Why wasn’t the rise of Nazism in the 1930s the result of forgetting—and what is different about the danger we face today?</li>
+    <li>Explain the "memory" analogy for the role of history in a democracy. Why is it important?</li>
+    <li>Why wasn't the rise of Nazism in the 1930s the result of forgetting—and what is different about the danger we face today?</li>
     <li>Identify one modern parallel to historical extremist movements and explain how fading memory makes it more dangerous.</li>
-    <li>Describe what “historical literacy” means and give an example of how it can be applied today.</li>
+    <li>Describe what "historical literacy" means and give an example of how it can be applied today.</li>
   </ol>
-  <a href="https://sdccd.instructure.com/courses/2490206/assignments/21524810" style="display: inline-block; background: #ffd700; color: #000; padding: 12px 18px; border-radius: 8px; text-decoration: none; font-weight: bold; margin-top: 10px;">Open Canvas Assignment →</a>
+  
+  <!-- Section Selector Dropdown -->
+  <div style="margin: 15px 0;">
+    <label for="sectionSelect" style="color: #ffd700; font-weight: bold; display: block; margin-bottom: 8px;">Select Your Course Section:</label>
+    <select id="sectionSelect" onchange="updateCanvasLink()" style="width: 100%; padding: 10px; border-radius: 6px; border: 2px solid #ffd700; font-size: 14px;">
+      <option value="">-- Choose Your Section --</option>
+      <option value="2489265/21568425">HIST 110 CRN 10114</option>
+      <option value="2490206/21524810">HIST 101 CRN 10103</option>
+      <option value="2492649/21582844">HIST 101 CRN 10548</option>
+    </select>
+  </div>
+  
+  <button id="canvasBtn" onclick="openCanvasAssignment()" style="background: #ffd700; color: #000; padding: 12px 18px; border-radius: 8px; border: none; font-weight: bold; cursor: pointer; display: none; margin-top: 10px;">
+    Open Canvas Assignment →
+  </button>
 </div>
+
+<script>
+function updateCanvasLink() {
+    var select = document.getElementById('sectionSelect');
+    var btn = document.getElementById('canvasBtn');
+    
+    if (select.value) {
+        btn.style.display = 'inline-block';
+    } else {
+        btn.style.display = 'none';
+    }
+}
+
+function openCanvasAssignment() {
+    var select = document.getElementById('sectionSelect');
+    if (!select.value) {
+        alert('Please select your section first!');
+        return;
+    }
+    
+    var parts = select.value.split('/');
+    var courseId = parts[0];
+    var assignmentId = parts[1];
+    var url = 'https://sdccd.instructure.com/courses/' + courseId + '/assignments/' + assignmentId;
+    window.open(url, '_blank');
+}
+</script>
 
 <h2>📚 Glossary of Key Terms</h2>
 
 <div style="background: #f9f9f9; border-radius: 12px; padding: 20px; border-left: 6px solid #ffd700; box-shadow: 0 6px 14px rgba(0,0,0,0.08); font-size: 1rem; line-height: 1.6;">
 
-  <p><strong>Academic Integrity</strong> — The ethical principle that all work you submit should reflect your own thinking, research, and understanding. Using someone else’s work without proper attribution — including AI-generated text — is considered academic dishonesty.</p>
+  <p><strong>Academic Integrity</strong> — The ethical principle that all work you submit should reflect your own thinking, research, and understanding. Using someone else's work without proper attribution — including AI-generated text — is considered academic dishonesty.</p>
 
-  <p><strong>Charlottesville “Unite the Right” Rally</strong> — A white supremacist rally held in August 2017 in Charlottesville, Virginia. It included neo-Nazis, Ku Klux Klan members, and other extremist groups, and resulted in violence and the murder of counter-protester Heather Heyer.</p>
+  <p><strong>Charlottesville "Unite the Right" Rally</strong> — A white supremacist rally held in August 2017 in Charlottesville, Virginia. It included neo-Nazis, Ku Klux Klan members, and other extremist groups, and resulted in violence and the murder of counter-protester Heather Heyer.</p>
 
   <p><strong>Contemporary Relevance</strong> — The way a historical event, idea, or theme connects to and informs current events, debates, or societal issues.</p>
 
@@ -276,9 +317,9 @@ History is not only about **what happened**—it’s about **what we choose to m
 
   <p><strong>Nazi Sympathizer</strong> — An individual or group that expresses support for, or refuses to condemn, Nazi ideology, policies, or actions.</p>
 
-  <p><strong>National Myth</strong> — A shared story about a nation’s past that often prioritizes unity and pride over factual accuracy and complexity.</p>
+  <p><strong>National Myth</strong> — A shared story about a nation's past that often prioritizes unity and pride over factual accuracy and complexity.</p>
 
-  <p><strong>Patriotism</strong> — Love for or devotion to one’s country. Can be expressed constructively through civic engagement or destructively when tied to exclusionary or supremacist ideologies.</p>
+  <p><strong>Patriotism</strong> — Love for or devotion to one's country. Can be expressed constructively through civic engagement or destructively when tied to exclusionary or supremacist ideologies.</p>
 
   <p><strong>Sons of Liberty</strong> — A group of colonial American patriots who resisted British authority before the American Revolution, sometimes using violent or extralegal tactics.</p>
 
